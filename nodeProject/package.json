@@ -1,0 +1,6 @@
+{
+    "scripts": {
+    "start": "node geektrust.js",
+    "test": "mocha"
+}
+}
